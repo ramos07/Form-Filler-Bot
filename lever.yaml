@@ -1,0 +1,13 @@
+# Enter all required fields, for the ones that aren't labeled required just leave as empty string
+# It is advised to fill out all fields.
+fullname: "<YOUR FULL NAME>" # REQUIRED
+email: "<YOUR EMAIL>" # REQUIRED
+phone: "<YOUR NUMBER>"
+current_company: ""
+linkedin_url: "<YOUR LINKEDIN>" # REQUIRED
+github_url: "<YOUR GITHUB>"
+twitter_url: "<YOUR TWITTER>"
+other_url: "<OTHER SITES>"
+portfolio_url: "<YOUR PORTFOLIO SITE>"
+resume_file_name: "<YOUR RESUME FILE NAME>" # REQUIRED - Must include extension (.docx, .pdf) and must be in directory where script is
+additional_info: "<COVER LETTER, SOMETHING ELSE, ETC>"
